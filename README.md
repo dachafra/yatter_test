@@ -10,7 +10,7 @@ The tool translates mapping rules from YARRRML in a turtle-based serialization o
 
 ## Installation:
 ```
-pip install yatter
+pip install yatte
 ```
 
 ## Execution from CLI
